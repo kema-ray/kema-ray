@@ -1,8 +1,8 @@
-<h3 align="center">
+<h4 align="center">
   Hello !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-  I'm Rachel Kemuma Oyondi, a full-time full-stack software developer.
-</h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
+  I'm Rachel Oyondi, a full-time full-stack software developer.
+</h4>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
