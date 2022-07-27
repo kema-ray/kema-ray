@@ -23,6 +23,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me:  <a href="mailto: rachelkemuma99@gmail.com">rachelkemuma99@gmail.com</a>
 
+### Github Statistics :
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kema-ray&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kema-ray&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kema-ray&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kema-ray&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
 
@@ -76,6 +86,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="Canva" height="50" /> 
 
 </div>
+  
+
 
 
 
