@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on Leetcode and read articles.
+- :zap: In my free time, I solve problems on Leetcode and read articles,novels.
 
 - :mailbox:How to reach me:  <a href="mailto: rachelkemuma99@gmail.com">rachelkemuma99@gmail.com</a>
 
