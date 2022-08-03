@@ -17,7 +17,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi,Kenya.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am a Software Engineer contributing to frontend and backend for building web applications.
 - 🌱 I’m currently learning Vue and tailwind css. 
 
 - :zap: In my free time, I solve problems on Leetcode and read articles,novels.
@@ -25,11 +25,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me:  <a href="mailto: rachelkemuma99@gmail.com">rachelkemuma99@gmail.com</a>
 
 ### Github Statistics :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kema-ray&theme=dark&background=000000)](https://git.io/streak-stats) -->
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kema-ray&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kema-ray&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kema-ray&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kema-ray&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kema-ray&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kema-ray&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
