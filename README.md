@@ -1,7 +1,7 @@
 <h4 align="center">
   Hello !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
-  I'm Rachel Oyondi, a full-time full-stack software developer.
+  I'm Rachel Oyondi, a full-time software developer.
 </h4>
 
 <div id="header" align="center">
