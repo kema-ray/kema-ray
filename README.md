@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Leetcode and read articles,novels.
 
-- :mailbox:How to reach me:  <a href="mailto: rachelkemuma99@gmail.com">rachelkemuma99@gmail.com</a>
+- How to reach me:  <a href="mailto: rachelkemuma99@gmail.com">rachelkemuma99@gmail.com</a>
 
 ### Github Statistics :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kema-ray&theme=dark&background=000000)](https://git.io/streak-stats)
